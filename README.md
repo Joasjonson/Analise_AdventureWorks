@@ -24,3 +24,7 @@ Objetivo é a análise de uma base de dados da plataforma Work Adventure. Defini
 
 Para a análise, foi utilizado SQL Server para criar uma visualização (view) que trouxe todos os dados necessários  para o cálculo dos indicadores. Outra parte envolveu a integração desses dados com o Power BI. A exportação da  view criada no SQL Server para o Power BI para a visualização  dos dados.
 Este trabalho mostra não apenas a aplicação de habilidades em SQL e Power BI, mas a capacidade de transformar dados brutos em informações acionáveis( o que é o mais importante). Essas informações podem orientar decisões estratégicas e melhorias nos processos de negócios, destacando a importância da análise de dados.
+
+
+
+Acesse o Dashboard : https://app.powerbi.com/view?r=eyJrIjoiYTcyMWJkMDUtYTE1OC00YzJjLWE2NGUtYThiOTAyZjg2ZWZhIiwidCI6IjIzZTI4MTc1LWU0ODMtNDlkZS1iZmQxLWVjODQ3NDlkYzk1ZCIsImMiOjh9&pageName=ReportSection
